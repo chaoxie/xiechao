@@ -1,0 +1,6 @@
+framework module DrawerViewController {
+  umbrella header "DrawerViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
